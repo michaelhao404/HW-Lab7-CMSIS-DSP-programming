@@ -1,0 +1,7 @@
+Debug/
+Release/
+_tmp/
+*.bak
+.settings/
+CLAUDE.md
+__pycache__/
